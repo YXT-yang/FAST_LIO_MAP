@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfast-lio-map_lib.a "CMakeFiles/fast-lio-map_lib.dir/include/ikd-Tree/ikd_Tree.cpp.o" "CMakeFiles/fast-lio-map_lib.dir/include/map-Maintain/map_Maintain.cpp.o"
+/usr/bin/ranlib libfast-lio-map_lib.a

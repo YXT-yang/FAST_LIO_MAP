@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fast-lio-map",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fast-lio-map_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fast-lio-map_lib-Debug-37463e3f828748b867ec.json",
+					"name" : "fast-lio-map_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fast-lio-map_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fast-lio-map_node-Debug-6d9c391fe72304f5f4da.json",
+					"name" : "fast-lio-map_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_point::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_point-Debug-692a71016bb32b047ef2.json",
+					"name" : "generate_point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_point_add::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_point_add-Debug-6d8efdf31569cc50d516.json",
+					"name" : "generate_point_add",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/whu/ThirdLib/MASS/FAST-LIO-MAP/build",
+		"source" : "/home/whu/ThirdLib/MASS/FAST-LIO-MAP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
